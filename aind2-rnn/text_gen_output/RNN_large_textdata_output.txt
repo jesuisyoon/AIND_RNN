@@ -1,0 +1,20 @@
+-------------------
+input chars = 
+es she eclipses and predominates the whole of her sex. it was not that he felt any emotion akin to l"
+predicted chars = 
+ook now, when i was a that i was a reward to me a mund in the preped at the to de some to the resone"
+-------------------
+input chars = 
+s she eclipses and predominates the whole of her sex. it was not that he felt any emotion akin to lo"
+predicted chars = 
+ok now, when i was a that i was a reward to me a mund in the preped at the to de some to the resone "
+-------------------
+input chars = 
+ she eclipses and predominates the whole of her sex. it was not that he felt any emotion akin to lov"
+predicted chars = 
+e you will he very the the to shown they sellots of shourse is an ord that the procoming in the dour"
+-------------------
+input chars = 
+she eclipses and predominates the whole of her sex. it was not that he felt any emotion akin to love"
+predicted chars = 
+ you will he very the the to shown they sellots of shourse is an ord that the procoming in the dours"
